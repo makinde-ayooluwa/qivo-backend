@@ -1,1 +1,1 @@
-console.log("Vyblo Backend")
+console.log("Vyblo Backend");
